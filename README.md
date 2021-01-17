@@ -1,3 +1,5 @@
+# Cartoon Filter
+
 Cartoon Filter uses Mask R-CNN and CartoonGAN machine learning models to turn people into cartoon characters.
 
 A GIF example is shown below where the person is stylized in Shinkai style.
